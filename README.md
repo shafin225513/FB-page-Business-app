@@ -98,7 +98,7 @@ You can download the latest release APK from the **Releases** section of this re
 This project:
 
 * Building an usable app for a small and local commercial FB page.
-* FB page link: https://www.facebook.com/share/1Dwze9MQ3C/
+* FB page link: https://www.facebook.com/share/1Dwze9mQ3C/
   
 
 ##  Contribution

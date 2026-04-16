@@ -1,5 +1,6 @@
 #  Business Catalog App (Flutter + Supabase)
 
+
 A simple yet functional **business catalog mobile application** built with Flutter, designed for small/local businesses to showcase products and receive orders via WhatsApp.
 
 This project serves as a **real-world MVP (Minimum Viable Product)** with authentication, admin control, and backend integration.
@@ -97,6 +98,7 @@ You can download the latest release APK from the **Releases** section of this re
 This project:
 
 * Building an usable app for a small and local commercial FB page.
+* FB page link: https://www.facebook.com/share/1Dwze9MQ3C/
   
 
 ##  Contribution

@@ -55,9 +55,6 @@ This project serves as a **real-world MVP (Minimum Viable Product)** with authen
 * **CI/CD:** GitHub Actions
 * **State Management:** (add if used, e.g., Riverpod / setState)
 
-##  APK Download
-
-You can download the latest release APK from the **Releases** section of this repository.
 
 
 
